@@ -1,0 +1,14 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sancarbar/netlify-sample.git",
+  "author": "sancarbar <sancarbar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@netlify/functions": "^0.7.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
